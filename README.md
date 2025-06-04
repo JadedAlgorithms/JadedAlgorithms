@@ -12,7 +12,7 @@ I dual-boot Linux and Windows — because I like control and having a fallback w
 - Languages: Python, C, Bash
 - Tools: Git, GitHub, Linux, VS Code
 - Interests: DevOps, CI/CD, Data Pipelines, Shell Scripting
-- Learning: Docker, Kubernetes, Pandas, REST APIs
+- Learning: Shell scripting, problem-solving, clean code practices
 
 ---
 
