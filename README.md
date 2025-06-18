@@ -9,7 +9,7 @@ I dual-boot Linux and Windows — because I like control and having a fallback w
 ---
 
 ## 🔧 Tech Stack
-- Languages: Python, C, Bash
+- Languages: Python, C, Bash, Javascript
 - Tools: Git, GitHub, Linux, VS Code
 - Interests: DevOps, CI/CD, Data Pipelines, Shell Scripting
 - Learning: Shell scripting, problem-solving, clean code practices
